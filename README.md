@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Devi1205
-- 👀 I’m interested in doing projects
-- 🌱 I’m currently learning  coding
-- 💞️ I’m looking to collaborate on anything realted to python
-- 📫 How to reach me ...
+# 👋 Hi, I’m Devi B S  
 
-<!---
-Devi1205/Devi1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in building innovative projects in **Python, system software, and AI/ML**  
+- 🌱 I’m currently learning **advanced algorithms, concurrency, xai**  
+- 💞️ I’m looking to collaborate on projects related to **Python, artificial intelligence, and NLP**  
+ 
